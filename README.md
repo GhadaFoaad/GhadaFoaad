@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhadaFoaad
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep learning methods for NLP
+- 👀 I’m PhD candidate, Artificial Intelligence
+- 🌱 I’m currently mastering Deep learning methods for NLP
 - 💞️ I’m looking to collaborate on NLP projects
 - 📫 How to reach me ghadaelnahas@yahoo.com
 
